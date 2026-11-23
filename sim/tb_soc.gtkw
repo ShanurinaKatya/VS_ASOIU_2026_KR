@@ -1,0 +1,56 @@
+[*]
+[*] GTKWave Analyzer v3.3.116 (w)1999-2023 BSI
+[*] Mon Nov 23 18:20:26 2026
+[*]
+[dumpfile] "/home/ekaterina/bmstu/kurBC/sim/tb_soc.vcd"
+[dumpfile_mtime] "Mon Nov 23 18:05:19 2026"
+[dumpfile_size] 64144
+[savefile] "/home/ekaterina/bmstu/kurBC/sim/tb_soc.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-19.119398 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 297
+[signals_width] 150
+[sst_expanded] 1
+[sst_vpaned_height] 157
+@28
+tb_soc.clk
+tb_soc.rst
+tb_soc.halted
+@22
+tb_soc.dut.u_cpu.pc[7:0]
+tb_soc.dut.u_cpu.rom_data[15:0]
+tb_soc.dut.u_cpu.opcode[3:0]
+tb_soc.dut.u_cpu.rs_val[15:0]
+tb_soc.dut.u_cpu.rt_val[15:0]
+tb_soc.dut.u_cpu.alu_y[15:0]
+tb_soc.dut.u_cpu.wd_data[15:0]
+@28
+tb_soc.dut.u_cpu.reg_we
+@22
+tb_soc.dut.u_cpu.ram_addr[5:0]
+tb_soc.dut.u_cpu.ram_wdata[15:0]
+@28
+tb_soc.dut.u_cpu.ram_we
+tb_soc.dut.u_cpu.branch_taken
+tb_soc.dut.u_cpu.is_halt
+@22
+tb_soc.ram0[15:0]
+tb_soc.ram1[15:0]
+tb_soc.ram2[15:0]
+tb_soc.ram3[15:0]
+tb_soc.ram4[15:0]
+tb_soc.ram5[15:0]
+tb_soc.ram6[15:0]
+tb_soc.ram7[15:0]
+tb_soc.ram8[15:0]
+tb_soc.ram9[15:0]
+tb_soc.ram10[15:0]
+tb_soc.ram11[15:0]
+tb_soc.ram12[15:0]
+tb_soc.ram13[15:0]
+tb_soc.ram14[15:0]
+tb_soc.ram15[15:0]
+[pattern_trace] 1
+[pattern_trace] 0
